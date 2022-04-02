@@ -1,0 +1,8 @@
+fp-info-cache
+pcb-heightmap.map
+fp-lib-table
+*.nc
+*.FlatPrj
+*.swp
+*.gbrjob
+*-bak
