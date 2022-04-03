@@ -1,0 +1,31 @@
+M48
+; DRILL file {KiCad 5.99.0-unknown-d430fae05d~122~ubuntu20.04.1} date Thu Apr  1 22:15:06 2021
+; FORMAT={-:-/ absolute / metric / decimal}
+; #@! TF.CreationDate,2021-04-01T22:15:06-07:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,5.99.0-unknown-d430fae05d~122~ubuntu20.04.1
+; #@! TF.FileFunction,Plated,1,2,PTH
+FMAT,2
+METRIC
+; #@! TA.AperFunction,ComponentDrill,Plated,PTH
+T1C1.000
+%
+G90
+G05
+T1
+; plated pad hole
+X37.98Y-63.17
+X37.98Y-65.71
+X37.98Y-68.25
+X37.98Y-70.79
+X37.98Y-73.33
+X37.98Y-75.87
+X37.98Y-78.41
+X102.68Y-63.17
+X102.68Y-65.71
+X102.68Y-68.25
+X102.68Y-70.79
+X102.68Y-73.33
+X102.68Y-75.87
+X102.68Y-78.41
+T0
+M30

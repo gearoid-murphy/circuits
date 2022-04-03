@@ -6,3 +6,5 @@ fp-lib-table
 *.swp
 *.gbrjob
 *-bak
+*.map
+*-backups
