@@ -8,3 +8,5 @@ fp-lib-table
 *-bak
 *.map
 *-backups
+*.gbr
+*.drl
